@@ -1,0 +1,72 @@
+.backgroundcolor{
+    background-color: rgb(235, 235, 235);
+}
+
+.navbar-text{
+    margin: auto;
+
+}
+.introheader{
+
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+    
+
+}
+.para-intro{
+   margin-right: 110px;
+   margin-left: 110px;
+   word-spacing: 4px;
+   padding-top: 10px;
+   
+  
+   
+}
+.mainintro{
+    justify-content: center;
+   
+    padding-top: 25px;
+    padding-bottom: 10px;
+    
+
+}
+.table{
+    font-size: 44px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: whitesmoke;
+    font-family: 'Grenze', serif;
+
+    
+}
+.table-text{
+    font-size: 18px;
+
+}
+/* what are we doing section below*/
+.textsty{        
+    font-size: 23px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+     
+                                          
+
+}
+.imgsty{
+    padding-top: 25px;
+
+}
+.tablecolor{
+    background-color: white;
+}
+.textsty2{
+    text-align: right;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
